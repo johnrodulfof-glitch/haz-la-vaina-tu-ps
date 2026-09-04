@@ -1,8 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Haz La Vaina Tu Ps
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-# Apuntes de la Universidad
-Bienvenido a las notas de clase.
+Hola mmg, lo que estás a punto de presenciar es una wikipedia personal donde pueden leer cuadernos que he preparado

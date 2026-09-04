@@ -1,1 +1,0 @@
-Incluso cuando estoy solo, incluso cuando estoy por mi cuenta, cuando el silencio y el ruido sea agotador, podria quedarme aqui, sin importar sin mi futuro es amenazante, siento como algo levanta mis huesos, algo que baila en celebracion, que es mucho mas ancho que el oceano que hay debajo, y mas alto que los titanes
