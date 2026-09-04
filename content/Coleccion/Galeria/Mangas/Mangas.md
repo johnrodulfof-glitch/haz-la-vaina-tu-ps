@@ -1,0 +1,1 @@
+![[BD Galeria.base]]

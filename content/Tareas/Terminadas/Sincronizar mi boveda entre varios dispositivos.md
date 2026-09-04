@@ -3,8 +3,8 @@ Tipo: Tarea
 Proyecto:
   - "[[Mi boveda Version 1.0]]"
 Prioridad: Alta
-Check: false
-Fecha De Creación: '[[03-09-2026]]'
+Check: true
+Fecha De Creación: "[[03-09-2026]]"
 Fecha De Cumplimiento: 2026-09-01
 tags:
 ---
