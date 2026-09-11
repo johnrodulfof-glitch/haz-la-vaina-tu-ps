@@ -13,9 +13,9 @@ views:
       property: Prioridad
       direction: ASC
     order:
-      - Check
       - file.name
       - Fecha De Cumplimiento
+      - Estado
     sort:
       - property: Check
         direction: ASC

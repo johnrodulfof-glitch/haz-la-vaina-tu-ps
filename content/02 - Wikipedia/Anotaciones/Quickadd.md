@@ -1,5 +1,5 @@
 ---
 Tipo: Nota
-Fecha De Creación: "[[2026-08-28]]"
+Fecha De Creación: "[[28-08-2026]]"
 ---
 # Quickadd

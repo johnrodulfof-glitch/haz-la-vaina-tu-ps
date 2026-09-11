@@ -2,6 +2,7 @@
 Tipo: Apunte
 Cuaderno:
   - "[[Linux]]"
+  - "[[Programacion]]"
 Referencia:
   - "[[Wiki De NixOS]]"
   - "[[Tutorial Basico NixOS]]"

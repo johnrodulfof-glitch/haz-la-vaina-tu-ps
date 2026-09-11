@@ -1,13 +1,14 @@
 ---
 Tipo: Tarea
 Proyecto:
-Prioridad:
+  - "[[Mi Boveda De Obsidian]]"
+Prioridad: Media
 Estado:
-Fecha De Creación: '[[<% tp.date.now("DD-MM-YYYY") %>]]'
+  - Idea
+Fecha De Creación: "[[11-09-2026]]"
 Fecha De Cumplimiento:
-tags:
 ---
-# 📝 <% tp.file.title %>
+# 📝 Crear los cuadernos por semestre
 
 > [!tldr]+ **Detalle rápido:** 
 > -
@@ -23,4 +24,3 @@ ___
 ## 📝 Notas de Trabajo
 
 
-<%* await tp.file.move("Tareas/Nuevas Tareas/" + tp.file.title) -%>

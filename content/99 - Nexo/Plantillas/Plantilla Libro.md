@@ -32,6 +32,7 @@ Portada:
 # Conclusión
 
 
+---
 # Notas Creadas
 ![[BD Enlaces.base]]
 <%* await tp.file.move("Coleccion/Fuentes Tecnicas/Libros/" + tp.file.title) -%>

@@ -3,7 +3,7 @@ Tipo: Cuaderno
 Area:
   - Universidad
 Autor:
-Semestre: N/A
+Semestre:
 Portada:
 ---
 # <% tp.file.title %>

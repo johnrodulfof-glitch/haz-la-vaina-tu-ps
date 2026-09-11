@@ -3,7 +3,7 @@ Tipo: Tarea
 Proyecto:
 Prioridad:
 Estado:
-  - En proceso
+  - Terminado
 Fecha De Creación: "[[03-09-2026]]"
 Fecha De Cumplimiento:
 tags:
@@ -13,10 +13,10 @@ tags:
 > Ahora que ya tengo mi pagina web funcionando ahora toca hacerla mas bonita
 ___
 ## 📌 Checklist de Pasos
-- [ ] Cambiar el link o dominio
-- [ ] Cambiar el nombre, titulo e icono de la web
-- [ ] Personalizar esteticamente la interfaz de usuario
-- [ ] Agregarle [[Plugins]] y complementos a la pagina para facilitar su uso
+- [x] Cambiar el link o dominio
+- [x] Cambiar el nombre, titulo e icono de la web
+- [x] Personalizar esteticamente la interfaz de usuario
+- [x] Agregarle [[Plugins]] y complementos a la pagina para facilitar su uso
 ___
 ## 🔗 Contexto y Recursos
 - **Notas** 

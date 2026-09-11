@@ -4,12 +4,11 @@ Cuaderno:
 Estado:
 Fecha De Creación: '[[<% tp.date.now("DD-MM-YYYY") %>]]'
 Fecha De Cumplimiento:
-tags:
 ---
 # 🚀 <% tp.file.title %>
-> **Resumen del proyecto:** 
-> 
-___
+
+> [!tldr] **Resumen del proyecto:** 
+> -
 ## 🎯 Objetivos y Resultados Clave 
 ### **Objetivo principal**
 - [ ] 

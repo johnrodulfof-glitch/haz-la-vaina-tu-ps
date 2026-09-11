@@ -1,8 +1,10 @@
 ---
 Tipo: Coleccion
+Formato:
+  - Conversacion IA
 Cuaderno:
 Enlace:
-Autor: "[[Perplexity]]"
+Autor: "[[Notebook LLM]]"
 Fecha De Creación: '[[<% tp.date.now("DD-MM-YYYY") %>]]'
 tags:
 ---
@@ -14,6 +16,7 @@ tags:
 # Resumen
 
 
+---
 # Notas Creadas
 ![[BD Enlaces.base]]
-<%* await tp.file.move("Coleccion/Conversaciones IA/Perplexity/" + tp.file.title) -%>
+<%* await tp.file.move("Coleccion/Conversaciones IA/Notebook LLM/" + tp.file.title) -%>

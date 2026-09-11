@@ -5,8 +5,8 @@ Referencia:
 Estado:
 Fecha De Creación: '[[<% tp.date.now("DD-MM-YYYY") %>]]'
 ---
-> [!tldr] ## Palabras Claves:
->
+> [!tldr]+  ## Notas Destacadas:
+>-
  # Ideas Y Conceptos Hablados
 ## <% tp.file.title %>
 

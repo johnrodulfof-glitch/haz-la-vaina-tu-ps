@@ -2,12 +2,13 @@
 Tipo: Proyecto
 Cuaderno:
   - "[[Mi Boveda De Obsidian]]"
-Estado: En proceso
-Fecha De Creación: '[[03-09-2026]]'
+Estado:
+  - Terminado
+Fecha De Creación: "[[03-09-2026]]"
 Fecha De Cumplimiento: 2026-09-14
-tags:
 ---
 # 🚀 Mi boveda Version 1.0
+
 > **Resumen del proyecto:** mi primera boveda completa como un lugar para soltar mi mente y conocimiento
 
 ___

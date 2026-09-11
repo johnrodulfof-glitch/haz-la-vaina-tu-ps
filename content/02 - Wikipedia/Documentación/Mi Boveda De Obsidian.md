@@ -50,5 +50,5 @@ Me decidi por obsidian ya que tiene mucha de las funcionalidades y característi
 ## Nexo
 [[Nexo]] es la septima y ultima carpeta de mi boveda, aqui va todo aquello que la boveda necesita para su funcionamiento y que no requiere que el usuario lo vea, edite, mueva, o cambien, son notas que solo se requieren crear una vez y cumplen una función determinada, mas que guardar información sirven para facilitar el llenado de información
 - Adjuntos: Es la carpeta donde se guarda todos los elementos graficos que uso en esta boveda
-- [[Bases De Datos]]: es la subcarpeta donde se crean todas las notas de tipo bases de datos, estas bases de datos están hechas para que se utilizen en paginas normales a traves de la incrustación
-- [[Plantillas]]: es la ultima subcarpeta donde se guardan todas las plantillas necesarias para facilitar la toma de notas en obsidian y que tambien es donde se "crean" los objetos
+- [[Bases De Datos De Obsidian|Bases De Datos]]: es la subcarpeta donde se crean todas las notas de tipo bases de datos, estas bases de datos están hechas para que se utilizen en paginas normales a traves de la incrustación
+- [[Plantillas De La Boveda|Plantillas]]: es la ultima subcarpeta donde se guardan todas las plantillas necesarias para facilitar la toma de notas en obsidian y que tambien es donde se "crean" los objetos
