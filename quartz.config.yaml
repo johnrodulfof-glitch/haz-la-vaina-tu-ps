@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Haz La Vaina Tu Ps
+  pageTitleSuffix:
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -16,9 +16,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Inter
+      body: Roboto
+      code: JetBrains Mono
     colors:
       lightMode:
         light: "#faf8f8"
@@ -50,12 +50,12 @@ plugins:
         - git
         - filesystem
     order: 10
-  - source: "@quartz-community/syntax-highlighting"
-    enabled: true
+  - source: "@quartz-themes/core"
+    enable: true
     options:
       theme:
-        light: github-light
-        dark: github-dark
+      light: tokyo-night
+      dark: tokyo-night
       keepBackground: false
     order: 20
   - source: "@quartz-community/obsidian-flavored-markdown"

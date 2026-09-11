@@ -1,0 +1,19 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+views:
+  - type: cards
+    name: Tabla
+    filters:
+      and:
+        - file.inFolder(this.file.folder)
+        - file.name != this.file.name
+    groupBy:
+      property: Estado
+      direction: ASC
+    order:
+      - file.name
+      - Autor
+    image: note.Portada

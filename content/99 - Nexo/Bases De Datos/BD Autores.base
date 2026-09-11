@@ -1,0 +1,24 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - Autor == this.file.name
+    groupBy:
+      property: Tipo
+      direction: ASC
+    order:
+      - file.name
+      - Cuaderno
+      - Fecha De Creación
+      - Enlace
+    sort:
+      - property: Formato
+        direction: ASC
+      - property: file.name
+        direction: ASC

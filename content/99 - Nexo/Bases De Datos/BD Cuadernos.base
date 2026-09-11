@@ -1,0 +1,21 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - Cuaderno == this.file.name
+    groupBy:
+      property: Tipo
+      direction: ASC
+    order:
+      - file.name
+      - Fecha De Creación
+      - Estado
+    sort:
+      - property: file.name
+        direction: DESC

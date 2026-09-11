@@ -1,0 +1,57 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+views:
+  - type: table
+    name: General
+    filters:
+      and:
+        - file.inFolder(this.file.folder)
+        - file.folder != "Wikipedia/Anotaciones"
+        - file.folder != "Wikipedia/Cuadernos"
+        - file.name != this.file.name
+    groupBy:
+      property: Tipo
+      direction: ASC
+    order:
+      - file.name
+      - Cuaderno
+      - Fecha De Creación
+      - Estado
+    sort:
+      - property: Cuaderno
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: cards
+    name: Cuadernos Uni
+    filters:
+      and:
+        - Tipo == "Cuaderno"
+        - Area == ["Universidad"]
+    groupBy:
+      property: Semestre
+      direction: DESC
+    order:
+      - file.name
+      - Autor
+    sort:
+      - property: Semestre
+        direction: DESC
+    image: note.Portada
+    cardSize: 160
+  - type: cards
+    name: Adicionales
+    filters:
+      and:
+        - Tipo == "Cuaderno"
+        - '!file.name.startsWith("Plantilla")'
+        - Semestre == "N/A"
+    groupBy:
+      property: Area
+      direction: ASC
+    image: note.Portada
+    cardSize: 160
+    imageAspectRatio: 1

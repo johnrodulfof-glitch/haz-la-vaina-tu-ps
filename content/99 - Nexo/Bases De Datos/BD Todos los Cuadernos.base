@@ -1,0 +1,22 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - Tipo == "Cuaderno"
+        - '!file.path.startsWith("Nexo")'
+    groupBy:
+      property: Area
+      direction: ASC
+    order:
+      - file.name
+      - Autor
+      - Semestre
+    sort:
+      - property: Semestre
+        direction: ASC

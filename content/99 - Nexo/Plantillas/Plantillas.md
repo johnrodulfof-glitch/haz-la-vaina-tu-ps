@@ -1,0 +1,15 @@
+# Plantillas Para [[Wikipedia]]
+- [[Plantilla Cuaderno Universidad]]
+- [[Plantilla Apuntes]]
+- [[Plantilla Anotaciones]]
+- [[Plantilla Documentaciones]]
+- [[Plantilla Perplexity]]
+# Plantillas Para [[Journal]]
+- [[Plantilla Nota Diaria]]
+- [[Plantilla Nota Mensual]]
+- [[Plantilla Nota Anual]]
+# Plantilla Para [[Galeria]]
+- 
+# Plantillas Adicionales
+- [[Plantilla Profesor]]
+- [[Plantilla Tareas]]

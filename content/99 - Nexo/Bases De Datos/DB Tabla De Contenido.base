@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - file.folder == this.file.folder
+        - file.name != this.file.name
+    order:
+      - file.name
+      - Fecha De Creación
+      - Cuaderno
+      - Estado
+    sort: []
+    columnSize: {}

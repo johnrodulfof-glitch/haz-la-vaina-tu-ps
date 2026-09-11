@@ -1,0 +1,23 @@
+model:
+  version: 1
+  kind: Table
+  columns: []
+pluginVersion: 1.0.0
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - Proyecto == this.file.name
+    groupBy:
+      property: Prioridad
+      direction: ASC
+    order:
+      - Check
+      - file.name
+      - Fecha De Cumplimiento
+    sort:
+      - property: Check
+        direction: ASC
+      - property: Fecha De Cumplimiento
+        direction: ASC
