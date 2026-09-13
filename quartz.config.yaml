@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: johnrodulfof-glitch.github.io/haz-la-vaina-tu-ps
+  baseUrl: "johnrodulfof-glitch.github.io/haz-la-vaina-tu-ps"
   ignorePatterns:
     - private
     - templates
