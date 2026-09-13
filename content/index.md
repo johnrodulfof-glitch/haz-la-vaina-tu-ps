@@ -19,7 +19,7 @@ Aquí les dejo un índice si buscan algo en especifico o pueden usar el buscador
 	-  [[Documentación]]
 -  [[03 - Coleccion|Coleccion]]
 	-  Conversaciones IA
-		-  [[Perplexity]]
+	-  [[Perplexity]]
 		-  [[Gemini]]
 		-  [[Notebook LLM]]
 	-  Fuentes Tecnicas
