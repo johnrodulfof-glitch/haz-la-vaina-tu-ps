@@ -1,1 +1,0 @@
-![[BD Todos los Cuadernos.base]]
